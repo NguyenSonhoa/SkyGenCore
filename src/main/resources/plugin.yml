@@ -1,0 +1,25 @@
+name: SkyGenCore
+main: grassminevn.skygencore.Main
+author: Cortez_Romeo, Sanenuyan
+version: 1.1
+api-version: 1.21
+load: POSTWORLD
+depend:
+   - PlaceholderAPI
+softdepend:
+   - MMOItems
+commands:
+   skygencore:
+      aliases:
+         - core
+   kichhoatbooster:
+      aliases:
+         - khb
+   genlist:
+   autocompressors:
+      aliases:
+      - tuchetao
+      - autocraft
+      - autotrade
+      - autoc
+      - autochetao   
